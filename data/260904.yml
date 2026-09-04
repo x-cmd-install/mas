@@ -7,7 +7,7 @@ about:
   head: 6c5032d
   archived: false
   latestVersion: v7.0.0
-  collectedAt: 2026-09-04T19:20:00Z
+  collectedAt: 2026-09-04T21:16:55Z
 timeline:
   created: 2015-08-02
   lastCommit: 2026-08-25
@@ -84,6 +84,54 @@ total:
   openIssue: 83
   commit: 2987
 ---
+path: /home/runner/.x-repo/github.com/mas-cli/mas
+collectedAt: 2026-09-04T21:16:56Z
+loc:
+  Swift:
+    code: 4310
+    comments: 530
+    blanks: 451
+    files: 76
+  Json:
+    code: 3661
+    comments: 0
+    blanks: 0
+    files: 5
+  Zsh:
+    code: 520
+    comments: 202
+    blanks: 112
+    files: 19
+  CHeader:
+    code: 356
+    comments: 96
+    blanks: 73
+    files: 16
+  Fish:
+    code: 47
+    comments: 1
+    blanks: 5
+    files: 1
+  Bash:
+    code: 30
+    comments: 1
+    blanks: 3
+    files: 1
+  C:
+    code: 0
+    comments: 1
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 645
+    blanks: 205
+    files: 5
+total:
+  code: 8929
+  comments: 1479
+  blanks: 851
+  files: 124
 ---
 date: "2026-09-03T21:29:45Z"
 repo:
