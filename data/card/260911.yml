@@ -7,7 +7,7 @@ about:
   latestVersion: "v7.0.0"
   latestRelease: "v7.0.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:36:13Z
+  collectedAt: 2026-09-11T19:16:56Z
 timeline:
   created: 2015-08-02
   lastCommit: 2026-08-25
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-05-04
   lastPrerelease: 
 popularity:
-  star: 12340
+  star: 12343
   watcher: 99
   fork: 299
   release: 55
@@ -37,7 +37,7 @@ recent:
     openPR: 3
     closedIssue: 0
     openIssue: 3
-    commit: 2
+    commit: 0
   last60d:
     since: 2026-07-13
     release: 0
@@ -45,7 +45,7 @@ recent:
     openPR: 4
     closedIssue: 4
     openIssue: 5
-    commit: 37
+    commit: 0
   last90d:
     since: 2026-06-13
     release: 0
@@ -53,7 +53,7 @@ recent:
     openPR: 4
     closedIssue: 5
     openIssue: 5
-    commit: 59
+    commit: 0
   last180d:
     since: 2026-03-15
     release: 1
@@ -61,7 +61,7 @@ recent:
     openPR: 4
     closedIssue: 23
     openIssue: 8
-    commit: 195
+    commit: 0
   last360d:
     since: 2025-09-16
     release: 15
@@ -69,7 +69,7 @@ recent:
     openPR: 4
     closedIssue: 154
     openIssue: 21
-    commit: 633
+    commit: 0
   last720d:
     since: 2024-09-21
     release: 24
@@ -87,7 +87,7 @@ total:
   commit: 2987
 ---
 path: /home/runner/.x-repo/github.com/mas-cli/mas
-collectedAt: 2026-09-11T05:36:14Z
+collectedAt: 2026-09-11T19:16:57Z
 loc:
   Swift:
     code: 4310
