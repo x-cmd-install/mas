@@ -30,8 +30,8 @@ x install mas
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 1/5 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (2/10) — Found 1/5 approved changesets -- score normalized to 2
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 
 ## 源代码
@@ -47,7 +47,7 @@ x install mas
 
 ## 流行度
 
-- **Star**: 12,391 · **Fork**: 301 · **开放 issue**: 716 · **贡献者**: 45
+- **Star**: 12,393 · **Fork**: 301 · **开放 issue**: 716 · **贡献者**: 45
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install mas
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 0 | 0 | 9 | 0 | 1 | 0 |
-| last60d | 2026-08-16 | 0 | 1 | 9 | 0 | 2 | 2 |
-| 90d | 2026-07-17 | 0 | 11 | 10 | 4 | 5 | 32 |
-| last180d | 2026-04-18 | 1 | 24 | 10 | 20 | 9 | 136 |
-| 360d | 2025-10-20 | 15 | 106 | 10 | 114 | 19 | 535 |
-| last720d | 2024-10-25 | 24 | 280 | 10 | 332 | 47 | 1475 |
+| 30d | 2026-09-16 | 0 | 0 | 9 | 0 | 1 | 0 |
+| last60d | 2026-08-17 | 0 | 1 | 9 | 0 | 2 | 2 |
+| 90d | 2026-07-18 | 0 | 11 | 10 | 4 | 5 | 32 |
+| last180d | 2026-04-19 | 1 | 23 | 10 | 19 | 8 | 136 |
+| 360d | 2025-10-21 | 15 | 106 | 10 | 114 | 19 | 535 |
+| last720d | 2024-10-26 | 24 | 277 | 10 | 332 | 47 | 1475 |
 
 ## Release 资产
 
@@ -80,4 +80,4 @@ mas 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261015.yml` · 2026-10-15T05:22:56Z._
+_数据快照: `data/card/261016.yml` · 2026-10-16T05:23:30Z._
