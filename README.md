@@ -30,8 +30,8 @@ Overall score: **7.9 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (2/10) — Found 1/5 approved changesets -- score normalized to 2
+- **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 
 ## Source
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,402 · **Forks**: 301 · **Open issues**: 716 · **Contributors**: 45
+- **Stars**: 12,401 · **Forks**: 301 · **Open issues**: 716 · **Contributors**: 45
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 6 | 0 | 1 | 0 |
-| last60d | 2026-08-23 | 0 | 1 | 6 | 0 | 2 | 0 |
-| 90d | 2026-07-24 | 0 | 4 | 7 | 2 | 5 | 10 |
-| last180d | 2026-04-25 | 1 | 21 | 7 | 17 | 7 | 96 |
-| 360d | 2025-10-27 | 15 | 106 | 7 | 114 | 19 | 533 |
-| last720d | 2024-11-01 | 24 | 266 | 7 | 325 | 43 | 1414 |
+| 30d | 2026-09-23 | 0 | 0 | 6 | 0 | 1 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 6 | 0 | 2 | 0 |
+| 90d | 2026-07-25 | 0 | 3 | 7 | 1 | 5 | 10 |
+| last180d | 2026-04-26 | 1 | 21 | 7 | 17 | 7 | 96 |
+| 360d | 2025-10-28 | 15 | 106 | 7 | 114 | 19 | 533 |
+| last720d | 2024-11-02 | 24 | 266 | 7 | 324 | 43 | 1414 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for mas lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:31:30Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:31:41Z._
