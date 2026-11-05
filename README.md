@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,413 · **Forks**: 300 · **Open issues**: 717 · **Contributors**: 45
+- **Stars**: 12,416 · **Forks**: 300 · **Open issues**: 717 · **Contributors**: 45
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 0 | 3 | 0 | 1 | 0 |
-| last60d | 2026-09-05 | 0 | 0 | 3 | 0 | 3 | 0 |
-| 90d | 2026-08-06 | 0 | 2 | 3 | 1 | 6 | 2 |
-| last180d | 2026-05-08 | 0 | 14 | 4 | 10 | 8 | 72 |
-| 360d | 2025-11-09 | 15 | 99 | 4 | 109 | 20 | 501 |
-| last720d | 2024-11-14 | 23 | 266 | 4 | 317 | 42 | 1394 |
+| 30d | 2026-10-06 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last60d | 2026-09-06 | 0 | 0 | 3 | 0 | 3 | 0 |
+| 90d | 2026-08-07 | 0 | 1 | 3 | 0 | 6 | 2 |
+| last180d | 2026-05-09 | 0 | 14 | 4 | 10 | 8 | 72 |
+| 360d | 2025-11-10 | 15 | 99 | 4 | 109 | 20 | 501 |
+| last720d | 2024-11-15 | 23 | 266 | 4 | 316 | 42 | 1394 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for mas lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:14:58Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:43:43Z._
